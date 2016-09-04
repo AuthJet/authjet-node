@@ -1,6 +1,6 @@
 {
   "name": "authjet",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Painless SMS user authentication with AuthJet",
   "main": "src/index.js",
   "scripts": {
@@ -17,7 +17,9 @@
     "tfa",
     "authentication",
     "sms",
-    "otp"
+    "otp",
+    "password",
+    "factor"
   ],
   "author": "Eric Wyne <ecwyne@gmail.com>",
   "license": "MIT",
