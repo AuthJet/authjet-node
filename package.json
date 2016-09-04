@@ -1,8 +1,8 @@
 {
   "name": "authjet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Painless SMS user authentication with AuthJet",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "babel --presets es2015 -d lib/ src/",
